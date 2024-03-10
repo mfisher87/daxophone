@@ -21,6 +21,9 @@ The instrument consists of:
 
 ## References
 
+* [Original daxophone website](https://daxo.de)
+    * [Original daxophone guide](http://www.daxo.de/download/DaxInfo.pdf.zip)
+        * [Mirror](https://docplayer.net/154026673-Some-information-on-the-daxophone.html)
 * Videos
     * <https://www.youtube.com/watch?v=TZLL5Jxbdxw>
 
