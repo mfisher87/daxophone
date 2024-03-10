@@ -3,6 +3,27 @@ project:
 
 website:
   title: "Daxophone"
+  site-url: "https://mfisher87.github.io/daxophone"
+
+  repo-url: &repo-url "https://github.com/mfisher87/daxophone"
+  repo-actions:
+    - "edit"
+    - "source"
+    - "issue"
+
+
+  sidebar:
+    # style: "docked"
+    search: true
+    tools:
+      - icon: "github"
+        href: *repo-url
+    contents:
+      - text: "Components"
+        contents:
+          - text: "Tongue"
+            href: "tongue/index.md"
+
 
 format:
   html:

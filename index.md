@@ -22,10 +22,10 @@ The instrument consists of:
 ## References
 
 * Videos
-    * https://www.youtube.com/watch?v=TZLL5Jxbdxw
+    * <https://www.youtube.com/watch?v=TZLL5Jxbdxw>
 
 * Music
-    * https://innocentrecords.bandcamp.com/album/singing-daxophone
+    * <https://innocentrecords.bandcamp.com/album/singing-daxophone>
 
 * [Metafilter daxophone page](https://www.metafilter.com/196011/The-Everyting-Musical-Instrument):
   Contains links to daxophone tongue font and original Hans Reichel PDF.
